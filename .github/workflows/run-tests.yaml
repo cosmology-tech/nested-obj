@@ -25,6 +25,6 @@ jobs:
           yarn
           yarn build
 
-      - name: parser
+      - name: tests
         run: |
           yarn test

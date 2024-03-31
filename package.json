@@ -1,9 +1,9 @@
 {
-  "name": "obj-path",
+  "name": "nested-obj",
   "version": "0.0.1",
   "description": "manipulate deep objects safely and simply",
   "author": "Dan Lynch <pyramation@gmail.com>",
-  "homepage": "https://github.com/pyramation/obj-path#readme",
+  "homepage": "https://github.com/pyramation/nested-obj#readme",
   "license": "SEE LICENSE IN LICENSE",
   "main": "main/index.js",
   "module": "module/index.js",
@@ -52,11 +52,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pyramation/obj-path"
+    "url": "https://github.com/pyramation/nested-obj"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/pyramation/obj-path/issues"
+    "url": "https://github.com/pyramation/nested-obj/issues"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
